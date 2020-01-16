@@ -1,1 +1,1 @@
-# pure-js-drumkit
+# Pure JavaScript Drum Kit
